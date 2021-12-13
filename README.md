@@ -1,1 +1,1 @@
-# Business-Recommendation-using-Yelp-Open-Data
+# Business Recommendation using Yelp Open-Data
